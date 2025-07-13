@@ -419,6 +419,28 @@ nav ul li a:hover::after {
   background: var(--primary);
   color: white;
 }
+#resume {
+  padding: 40px;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+#resume h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+#resume a {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+#resume a:hover {
+  background-color: #005f99;
+}
 
 /* Contact Section */
 #contact {
